@@ -8,9 +8,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/teeckay/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/teeckay/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/teeckay/configure-ad).
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/teeckay/azure-network-protocols)
-- <b> How Virtual Private Networks (VPNs) Work </b>
+- <b> Virtual Private Networks (VPNs): How They Work </b>
+  - [VPNs: Using ProtonVPN to Illustrate What VPNs are and How VPNs Work](https://github.com/teeckay/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
