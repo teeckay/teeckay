@@ -10,6 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/teeckay/configure-ad).
   - [Network File Sharing and Permissioning](https://github.com/teeckay/Network-File-Shares-and-Permissions)
+  - [Domain Naming System ( DNS ): How It Works](https://github.com/teeckay/DNS)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/teeckay/azure-network-protocols)
 - <b> Virtual Private Networks (VPNs): How They Work </b>
   - [VPNs: Using ProtonVPN to Illustrate What VPNs are and How VPNs Work](https://github.com/teeckay/VPNs)
