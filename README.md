@@ -6,7 +6,7 @@ Hello, I am Tiudy Kamau, I invite you to explore my journey – a fusion of tech
 - Active Directory 
 - Network File Sharing and Permissions
 - Domain Name System
-- Firewalls and Networking (Network Security Groups)
+- Firewalls and Networking (Network Security Groups) And,
 - Virtual Private Networks
 
 I invite you to journey alongside me, to explore the milestones that define my IT expedition. Each step has been a testament to my commitment to learning, growth, and excellence in the blend of art and science that defines Information Technology. Together, let's venture through the digital cosmos I've traversed, and discover the uncharted territories that lie ahead.   Yours in Innovation, Tiudy C. Kamau.                                                                                                                               
