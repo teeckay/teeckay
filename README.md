@@ -1,19 +1,20 @@
 <h1> Hi, I'm Tiudy Kamau, an IT Professional. Welcome to My IT Portfolio. </h1>
+
 I invite you to explore my journey – a fusion of technology, creativity, and problem-solving. Through these pages, you'll uncover the intricacies of my technical acumen, a rich mosaic spanning: 
 
-Microsoft Azure 
+- Microsoft Azure 
 
-Help Desk Ticketing Systems 
+- Help Desk Ticketing Systems 
 
-Active Directory 
+- Active Directory  
 
-Network File Sharing and Permissions 
+- Network File Sharing and Permissions 
 
-Domain Name System 
+- Domain Name System 
 
-Firewalls and Networking (Network Security Groups) And, 
+- Firewalls and Networking (Network Security Groups) And, 
 
-Virtual Private Networks 
+- Virtual Private Networks  
 
 I invite you to journey alongside me, to explore the milestones that define the day-to-day workings of an IT professional.  
 
